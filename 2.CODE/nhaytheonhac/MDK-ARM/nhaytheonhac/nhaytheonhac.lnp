@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"nhaytheonhac\startup_stm32f103xb.o"
+"nhaytheonhac\main.o"
+"nhaytheonhac\stm32f1xx_it.o"
+"nhaytheonhac\stm32f1xx_hal_msp.o"
+"nhaytheonhac\stm32f1xx_hal_gpio_ex.o"
+"nhaytheonhac\stm32f1xx_hal_adc.o"
+"nhaytheonhac\stm32f1xx_hal_adc_ex.o"
+"nhaytheonhac\stm32f1xx_hal.o"
+"nhaytheonhac\stm32f1xx_hal_rcc.o"
+"nhaytheonhac\stm32f1xx_hal_rcc_ex.o"
+"nhaytheonhac\stm32f1xx_hal_gpio.o"
+"nhaytheonhac\stm32f1xx_hal_dma.o"
+"nhaytheonhac\stm32f1xx_hal_cortex.o"
+"nhaytheonhac\stm32f1xx_hal_pwr.o"
+"nhaytheonhac\stm32f1xx_hal_flash.o"
+"nhaytheonhac\stm32f1xx_hal_flash_ex.o"
+"nhaytheonhac\stm32f1xx_hal_exti.o"
+"nhaytheonhac\stm32f1xx_hal_tim.o"
+"nhaytheonhac\stm32f1xx_hal_tim_ex.o"
+"nhaytheonhac\system_stm32f1xx.o"
+--strict --scatter "nhaytheonhac\nhaytheonhac.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "nhaytheonhac.map" -o nhaytheonhac\nhaytheonhac.axf

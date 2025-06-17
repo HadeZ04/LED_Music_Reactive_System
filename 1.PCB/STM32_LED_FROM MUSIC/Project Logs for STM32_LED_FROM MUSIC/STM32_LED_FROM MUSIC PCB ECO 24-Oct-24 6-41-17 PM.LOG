@@ -1,0 +1,172 @@
+Removed Pin From Net: NetName=LED1 Pin=STM1-35
+Change Component Description : Designator=L1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L10 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L11 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L12 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L13 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L14 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L15 Old Description=C?m New Description=C?m
+Change Component Description : Designator=VR1 Old Description=C?m New Description=C?m
+Change component parameters: Designator = "C6" ("C6"); Footprint = "Radial 4.7uF/50V"; UniqueID = "\SRPYPDSZ" ("\SRPYPDSZ")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "Radial 4.7uF/50V"; UniqueID = "\JJGUJHQK" ("\JJGUJHQK")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "Radial 4.7uF/50V"; UniqueID = "\OQNPWNLH" ("\OQNPWNLH")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "LM358SMD"; UniqueID = "\PNHPOAOM" ("\PNHPOAOM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LM386"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "LED-5MM-RED"; UniqueID = "\SRXXOOMJ" ("\SRXXOOMJ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "LED-5MM-RED"; UniqueID = "\RPVMDZAH" ("\RPVMDZAH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "LED-5MM-RED"; UniqueID = "\NADDPENZ" ("\NADDPENZ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L4" ("L4"); Footprint = "LED-5MM-RED"; UniqueID = "\XXDGKVTH" ("\XXDGKVTH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L5" ("L5"); Footprint = "LED-5MM-RED"; UniqueID = "\CHJHQRYD" ("\CHJHQRYD")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L6" ("L6"); Footprint = "LED-5MM-RED"; UniqueID = "\ZDSPZSJB" ("\ZDSPZSJB")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L7" ("L7"); Footprint = "LED-5MM-RED"; UniqueID = "\PFMEPUBC" ("\PFMEPUBC")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L8" ("L8"); Footprint = "LED-5MM-RED"; UniqueID = "\OBAQYKKF" ("\OBAQYKKF")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L9" ("L9"); Footprint = "LED-5MM-RED"; UniqueID = "\OPFBSIBT" ("\OPFBSIBT")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L10" ("L10"); Footprint = "LED-5MM-RED"; UniqueID = "\QMCJWGNU" ("\QMCJWGNU")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L11" ("L11"); Footprint = "LED-5MM-RED"; UniqueID = "\WPNDAWWA" ("\WPNDAWWA")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L12" ("L12"); Footprint = "LED-5MM-RED"; UniqueID = "\QTGHYSQL" ("\QTGHYSQL")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L13" ("L13"); Footprint = "LED-5MM-RED"; UniqueID = "\BBTVXYZV" ("\BBTVXYZV")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L14" ("L14"); Footprint = "LED-5MM-RED"; UniqueID = "\ABKVXEYO" ("\ABKVXEYO")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L15" ("L15"); Footprint = "LED-5MM-RED"; UniqueID = "\PNNCPXQM" ("\PNNCPXQM")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR1" ("VR1"); Footprint = "Bien Tro Tam Giac Dung"; UniqueID = "\MBHDHDGQ" ("\MBHDHDGQ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000919"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Bi?n Tr? Tam Giác 103-10K RM065 (Chân Ð?ng)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "JACK DC"; UniqueID = "\MROKKLLF" ("\MROKKLLF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-002a?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PJ-002A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PJ-002A/CUI%20Devices/view-part/287588/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "MK1" ("MK1"); Footprint = "CUI_CMA-6542PF"; UniqueID = "\BYGUZYCY" ("\BYGUZYCY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CMA-6542PF/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/audio/microphones/electret-condenser-microphones/cma-6542pf?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CMA-6542PF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CMA-6542PF/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CMA-6542PF/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED1 Pin=STM1-10
