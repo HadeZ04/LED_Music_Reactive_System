@@ -4,7 +4,7 @@ Dự án này sử dụng **vi điều khiển STM32 (Blue Pill)** kết hợp v
 ## 📸 Sơ Đồ Mạch
 
 
-![Sơ đồ mạch LED](![Untitled]([https://github.com/user-attachments/assets/04781e05-b46b-43a5-94ab-37188c76b5be](https://github.com/HadeZ04/LED_Music_Reactive_System/blob/main/Untitled.png)))
+![Sơ đồ mạch LED](Untitled.png)
 
 ## ⚙️ Thành Phần Phần Cứng
 
