@@ -1,8 +1,15 @@
 # Hệ Thống LED Phản Ứng Theo Âm Thanh 🎵 (STM32 + Mạch Analog + LED Đơn)
 
 Dự án này sử dụng **vi điều khiển STM32 (Blue Pill)** kết hợp với **mạch khuếch đại âm thanh analog (LM386)** và các **LED đơn** để hiển thị hiệu ứng ánh sáng dựa trên cường độ âm thanh môi trường.
+
+# Demo Video
+
+You can watch the demo of this project on YouTube by clicking the link below:
+
+[Watch Demo on YouTube](https://youtube.com/shorts/sUVz4pFIvAo?feature=share)
+
 ## 📸 Sơ Đồ Mạch
-[![Xem demo](https://youtube.com/shorts/sUVz4pFIvAo?feature=share)
+
 
 ![Sơ đồ mạch LED](Untitled.png)
 
