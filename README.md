@@ -2,7 +2,7 @@
 
 Dự án này sử dụng **vi điều khiển STM32 (Blue Pill)** kết hợp với **mạch khuếch đại âm thanh analog (LM386)** và các **LED đơn** để hiển thị hiệu ứng ánh sáng dựa trên cường độ âm thanh môi trường.
 ## 📸 Sơ Đồ Mạch
-
+[![Xem demo](https://youtube.com/shorts/sUVz4pFIvAo?feature=share)
 
 ![Sơ đồ mạch LED](Untitled.png)
 
